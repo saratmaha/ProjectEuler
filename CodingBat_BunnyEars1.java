@@ -15,5 +15,4 @@ public class CodingBat_BunnyEars1 {
             return bunnyEars1(bunnys - 1) + 2;
         }
     } 
-    
 }
