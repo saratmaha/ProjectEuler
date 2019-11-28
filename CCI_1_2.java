@@ -84,7 +84,6 @@ public class CCI_1_2 {
                 return false;
             }
         }
-
         return true;
     }
 }
